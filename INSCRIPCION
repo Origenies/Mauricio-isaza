@@ -1,0 +1,1 @@
+ansible-playbook deploy-servers.yml [-e version=<version_name> speed_user=<test_user> speed_port=<server_port> aws_access=<aws access key> aws_secret=<aws secret key> aws_endpoint=<aws endpoint>]
